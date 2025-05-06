@@ -1,7 +1,7 @@
 ## Hi 👋
 
 🚀 **Resolvo problemas conectando ideias, sistemas e ferramentas.**  
-Python, JavaScript, low-code e infraestrutura — tudo junto no que fizer mais sentido.
+Python, JavaScript, low-code e infraestrutura — tudo junto no que fizer mais sentido. 
 
 🎓 Atualmente estudo **Inteligência Artificial Aplicada** na **PUCPR**.
 
